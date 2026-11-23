@@ -64,18 +64,7 @@ A real-time Grafana dashboard for the department's 5G PON testbed, where 16 ONUs
 
 ## Tools
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
-<img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square" alt="DAX">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau">
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
-<img src="https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white" alt="Metabase">
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+<p><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square" alt="MySQL"> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square" alt="Power BI"> <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square" alt="DAX"> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square" alt="Tableau"> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square" alt="Excel"> <img src="https://img.shields.io/badge/Metabase-509EE3?style=flat-square" alt="Metabase"> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square" alt="Grafana"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square" alt="pandas"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square" alt="NumPy"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square" alt="Linux"></p>
 
 ## Education
 
