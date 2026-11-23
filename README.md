@@ -32,7 +32,3 @@ For my engineering phase project at IMT Atlantique, I built the Grafana dashboar
 ## Tools
 
 <p><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square" alt="MySQL"> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square" alt="Power BI"> <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square" alt="DAX"> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square" alt="Tableau"> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square" alt="Excel"> <img src="https://img.shields.io/badge/Metabase-509EE3?style=flat-square" alt="Metabase"> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square" alt="Grafana"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square" alt="pandas"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square" alt="NumPy"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square" alt="Linux"></p>
-
-## Get in Touch
-
-The easiest way to reach me is by email at [david.arausi@imt-atlantique.net](mailto:david.arausi@imt-atlantique.net) or on LinkedIn at [linkedin.com/in/arausidavid](https://www.linkedin.com/in/arausidavid). I'm looking for an end-of-studies internship from February 2027, so I'm open to talking about data roles.
